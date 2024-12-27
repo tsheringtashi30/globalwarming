@@ -1,0 +1,11 @@
+body{
+    font-family: helvetica;
+    font-size: 25px;
+    color:white;
+    background-color: aliceblue;
+}
+
+body {
+    background-image:url(images/11221666657629331261.jpg) ;
+    background-size: cover;
+}

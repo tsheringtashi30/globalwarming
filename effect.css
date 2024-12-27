@@ -1,0 +1,21 @@
+
+body{
+    font-family: helvetica;
+    font-size: 25px;
+    color:white;
+    background-color: aliceblue;
+}
+
+body {
+    background-image:url(images/earth-from-space-clouds-4k.jpg) ;
+    background-size: cover;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
